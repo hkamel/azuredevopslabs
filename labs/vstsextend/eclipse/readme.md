@@ -30,7 +30,7 @@ In this lab, you will
 
 1. Refer the [Getting Started](../Setup/) before you start following the exercises.
 
-1. You will need to install and configure [JDK](https://java.com/en/download/help/windows_manual_download.xml), [Eclipse](https://www.eclipse.org/downloads/download.php?file=/oomph/epp/photon/R/eclipse-inst-win64.exe) on your Windows machine.
+1. You will need to install and configure [JDK](https://java.com/en/download/help/windows_manual_download.xml), [Eclipse](https://www.eclipse.org/downloads/) on your Windows machine.
 
 1. You will need the [**Docker Integration**](https://marketplace.visualstudio.com/items?itemName=ms-vscs-rm.docker){:target="_blank"} extension installed and enabled on your Azure DevOps Organization.
 
